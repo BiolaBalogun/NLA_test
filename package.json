@@ -1,0 +1,17 @@
+{
+  "name": "nl_cloud",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.21.1",
+    "jest": "^28.1.0"
+  },
+  "dependencies": {
+    "powershell": "^2.3.2"
+  }
+}
